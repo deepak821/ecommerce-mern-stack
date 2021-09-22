@@ -11,8 +11,8 @@ function Footer() {
             <br />
             <h4>Contact Us</h4>
             <h1 className="list-unstyled">
-              <li>+61 493124879</li>
-              <li>Melbourne, Australia</li>
+              <li>+61 49XXXXXXXX</li>
+              <li>WORLD, ASIA</li>
             </h1>
           </div>
           {/* Column2 */}
@@ -21,7 +21,7 @@ function Footer() {
             <h4>About US</h4>
 
             <span>
-              "Midam Tech is the Australia's driving Online Marketplace for
+              "We are driving Online Marketplace for
               Mobile Phone Accessories offering high quality accessories and
               energizing adornments. We aim to achieve customer satisfication
               with our high quality products and excellent customer support."
@@ -46,8 +46,8 @@ function Footer() {
         <hr />
         <div className="row">
           <p className="col-sm">
-            &copy;{new Date().getFullYear()} Copyright Midam Technology © 2021
-            ABN 84925544979
+            &copy;{new Date().getFullYear()} Copyright Ecom Technology © 2021
+            ABN 84925XXXXXX
           </p>
         </div>
       </div>
