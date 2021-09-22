@@ -11,7 +11,7 @@ function Footer() {
             <br />
             <h4>Contact Us</h4>
             <h1 className="list-unstyled">
-              <li>+61 49XXXXXXXX</li>
+              <li>+977 98XXXXXXXX</li>
               <li>WORLD, ASIA</li>
             </h1>
           </div>
