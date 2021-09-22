@@ -32,13 +32,13 @@ function Footer() {
           {/* Column3 */}
           <div className="col">
             <br />
-            <h4>Connect with Us</h4>
+            <h4>Fork the project</h4>
             <ui className="list-unstyled">
               <a
-                href="https://www.facebook.com/midamtechnology"
+                href="https://github.com/nayana-thapa/ecommerce-mern-stack"
                 className="text-dark"
               >
-                facebook
+                GitHub
               </a>
             </ui>
           </div>
